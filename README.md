@@ -81,43 +81,6 @@ This repository contains my personal notes, core takeaways, and completed Python
 
 ---
 
-## 📂 Repository Structure
-
-```text
-udlbook-notes-and-implementations/
-├── 01_foundations/
-│   ├── math_background.ipynb
-│   ├── supervised_learning.ipynb
-│   ├── shallow_networks.ipynb
-│   └── deep_networks.ipynb
-├── 02_fitting_and_gradients/
-│   ├── loss_functions.ipynb
-│   ├── optimization_adam.ipynb
-│   └── backpropagation.ipynb
-├── 03_regularization_and_cv/
-│   ├── double_descent.ipynb
-│   ├── regularization.ipynb
-│   ├── cnns_1d_2d.ipynb
-│   └── resnets_batchnorm.ipynb
-├── 04_attention_and_graphs/
-│   ├── transformers_attention.ipynb
-│   └── graph_neural_networks.ipynb
-├── 05_generative_models/
-│   ├── gans_wasserstein.ipynb
-│   ├── normalizing_flows.ipynb
-│   ├── variational_autoencoders.ipynb
-│   └── diffusion_models.ipynb
-├── 06_rl_and_theory/
-│   ├── reinforcement_learning.ipynb
-│   ├── lottery_tickets_robustness.ipynb
-│   └── bias_and_explainability.ipynb
-├── notes/
-│   └── chapter_summaries.md
-├── requirements.txt
-└── README.md
-```
----
-
 ## 🛠️ Tech Stack & Key Competencies
 
 * **Core Stack:** Python, PyTorch, NumPy, Matplotlib, SciPy.
