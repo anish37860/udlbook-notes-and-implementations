@@ -4,6 +4,7 @@
 [![Publisher](https://img.shields.io/badge/Publisher-MIT_Press-red.svg)](https://mitpress.mit.edu/9780262048644/understanding-deep-learning/)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/Framework-PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white)](https://pytorch.org/)
+![Views](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fanish37860%2Fudlbook-notes-and-implementations%2Ftree%2Fmain&label=Views&icon=github&color=%238540f5&message=&style=flat&tz=Asia%2FKolkata)
 
 This repository contains my personal notes, core takeaways, and completed Python/PyTorch implementations for the coding exercises in **[Understanding Deep Learning](https://udlbook.github.io/udlbook/)** by **[Simon J.D. Prince](https://www.linkedin.com/in/simon-prince-615bb9165/)** (MIT Press).
 
@@ -26,10 +27,10 @@ This repository contains my personal notes, core takeaways, and completed Python
 
 > **Status Legend:** ✅ Completed | 🏗️ In Progress | ⏳ Pending
 
-| Chapter | Topic / Domain | Status | Timeline | Core Notebooks & Implementations |
+| Chapter | Topic / Domain | Status | Completion Date | Core Notebooks & Implementations |
 | :--- | :--- | :---: | :---: | :--- |
-| **01** | Introduction & Math Foundations | ⏳ | Aug 30th, 2026 | Matrix operations, linear algebra review |
-| **02** | Supervised Learning Basics | ⏳ | Aug 31st, 2026 | 1D Supervised learning pipeline |
+| **01** | Introduction & Math Foundations | ✅ | Aug 31st, 2026 | Matrix operations, linear algebra review |
+| **02** | Supervised Learning Basics | 🏗️ |  | 1D Supervised learning pipeline |
 | **03** | Shallow Neural Networks | ⏳ | | Activation functions, region partitioning |
 | **04** | Deep Neural Networks | ⏳ | | Network composition, clipping functions |
 | **05** | Loss Functions | ⏳ | | Least Squares, Binary & Multiclass Cross-Entropy |
