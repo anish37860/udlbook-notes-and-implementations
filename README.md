@@ -27,29 +27,29 @@ This repository contains my personal notes, core takeaways, and completed Python
 
 > **Status Legend:** ✅ Completed | 🏗️ In Progress | ⏳ Pending
 
-| Chapter | Topic / Domain | Status | Completion Date | Core Notebooks & Implementations |
-| :--- | :--- | :---: | :---: | :--- |
-| **01** | Introduction & Math Foundations | ✅ | Aug 31st, 2026 | Matrix operations, linear algebra review |
-| **02** | Supervised Learning Basics | 🏗️ |  | 1D Supervised learning pipeline |
-| **03** | Shallow Neural Networks | ⏳ | | Activation functions, region partitioning |
-| **04** | Deep Neural Networks | ⏳ | | Network composition, clipping functions |
-| **05** | Loss Functions | ⏳ | | Least Squares, Binary & Multiclass Cross-Entropy |
-| **06** | Fitting Models & Optimization | ⏳ | | Line search, SGD, Momentum, Adam optimizer |
-| **07** | Gradients & Backpropagation | ⏳ | | Manual & automatic backprop, Xavier/He initialization |
-| **08** | Performance Evaluation | ⏳ | | Bias-variance tradeoff, double descent phenomenon |
-| **09** | Regularization Strategies | ⏳ | | $L_2$ regularization, implicit regularization, data augmentation |
-| **10** | Convolutional Networks (CNNs) | ⏳ | | 1D & 2D convolutions, downsampling, upsampling |
-| **11** | Residual Networks & Norms | ⏳ | | ResNets, Batch Normalization, shattered gradients |
-| **12** | Transformers & Attention | ⏳ | | Self-attention, multi-head attention, decoding strategies |
-| **13** | Graph Neural Networks (GNNs) | ⏳ | | Graph embeddings, GAT, neighborhood sampling |
-| **14** | Unsupervised Learning | ⏳ | | Latent variables, density estimation, clustering foundations |
-| **15** | Generative Adversarial Networks | ⏳ | | Minimax optimization, Wasserstein GANs |
-| **16** | Normalizing Flows | ⏳ | | 1D & Autoregressive flows, contraction mappings |
-| **17** | Variational Autoencoders (VAEs) | ⏳ | | ELBO optimization, reparameterization trick |
-| **18** | Diffusion Models | ⏳ | | Forward/reverse SDEs, score matching, 1D diffusion |
-| **19** | Deep Reinforcement Learning | ⏳ | | MDPs, Dynamic Programming, Monte-Carlo, TD methods |
-| **20** | Why Deep Learning Works | ⏳ | | Lottery ticket hypothesis, high-dimensional geometry |
-| **21** | Responsible AI & Ethics | ⏳ | | Bias mitigation, explainable AI (SHAP / LIME) |
+| Chapter | Topic / Domain | Status | Completion Date | Subtopics | Notes & Exercises |
+| :--- | :--- | :---: | :---: | :--- | :--- |
+| **01** | Introduction & Math Foundations | ✅ | Aug 31st, 2026 | Introduction & Mathematics review | [Introduction_notes.ipynb](../udlbook-notes-and-implementations/chapter01/Introduction_notes.ipynb)|
+| **02** | Supervised Learning Basics | 🏗️ |  | 1D Supervised learning pipeline | |
+| **03** | Shallow Neural Networks | ⏳ | | Activation functions, region partitioning | |
+| **04** | Deep Neural Networks | ⏳ | | Network composition, clipping functions | |
+| **05** | Loss Functions | ⏳ | | Least Squares, Binary & Multiclass Cross-Entropy | |
+| **06** | Fitting Models & Optimization | ⏳ | | Line search, SGD, Momentum, Adam optimizer | |
+| **07** | Gradients & Backpropagation | ⏳ | | Manual & automatic backprop, Xavier/He initialization | |
+| **08** | Performance Evaluation | ⏳ | | Bias-variance tradeoff, double descent phenomenon | |
+| **09** | Regularization Strategies | ⏳ | | $L_2$ regularization, implicit regularization, data augmentation | |
+| **10** | Convolutional Networks (CNNs) | ⏳ | | 1D & 2D convolutions, downsampling, upsampling | |
+| **11** | Residual Networks & Norms | ⏳ | | ResNets, Batch Normalization, shattered gradients | |
+| **12** | Transformers & Attention | ⏳ | | Self-attention, multi-head attention, decoding strategies | |
+| **13** | Graph Neural Networks (GNNs) | ⏳ | | Graph embeddings, GAT, neighborhood sampling | |
+| **14** | Unsupervised Learning | ⏳ | | Latent variables, density estimation, clustering foundations | |
+| **15** | Generative Adversarial Networks | ⏳ | | Minimax optimization, Wasserstein GANs | |
+| **16** | Normalizing Flows | ⏳ | | 1D & Autoregressive flows, contraction mappings | |
+| **17** | Variational Autoencoders (VAEs) | ⏳ | | ELBO optimization, reparameterization trick | |
+| **18** | Diffusion Models | ⏳ | | Forward/reverse SDEs, score matching, 1D diffusion | |
+| **19** | Deep Reinforcement Learning | ⏳ | | MDPs, Dynamic Programming, Monte-Carlo, TD methods | |
+| **20** | Why Deep Learning Works | ⏳ | | Lottery ticket hypothesis, high-dimensional geometry | |
+| **21** | Responsible AI & Ethics | ⏳ | | Bias mitigation, explainable AI (SHAP / LIME) | |
 
 ---
 
