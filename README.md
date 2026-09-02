@@ -30,8 +30,8 @@ This repository contains my personal notes, core takeaways, and completed Python
 | Chapter | Topic / Domain | Status | Completion Date | Subtopics | Notes & Exercises |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **01** | Introduction & Math Foundations | ✅ | Aug 31st, 2026 | Introduction & Mathematics review | [Introduction_notes.ipynb](chapter01/Introduction_notes.ipynb)|
-| **02** | Supervised Learning Basics | 🏗️ |  | 1D Supervised learning pipeline | [Supervised_learning_notes.ipynb](chapter02/02_Supervised_learning_notes.ipynb) |
-| **03** | Shallow Neural Networks | ⏳ | | Activation functions, region partitioning | |
+| **02** | Supervised Learning Basics | ✅ | Sept 02nd, 2026 | 1D Supervised learning pipeline | [Supervised_learning_notes.ipynb](chapter02/02_Supervised_learning_notes.ipynb) |
+| **03** | Shallow Neural Networks | 🏗️ | | Activation functions, region partitioning | |
 | **04** | Deep Neural Networks | ⏳ | | Network composition, clipping functions | |
 | **05** | Loss Functions | ⏳ | | Least Squares, Binary & Multiclass Cross-Entropy | |
 | **06** | Fitting Models & Optimization | ⏳ | | Line search, SGD, Momentum, Adam optimizer | |
